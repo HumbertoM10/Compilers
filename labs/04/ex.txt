@@ -1,0 +1,7 @@
+// comment
+
+i a
+i b
+a = 5
+b = a + 3
+p b
